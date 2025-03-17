@@ -27,7 +27,15 @@ a {
 }
 
 .button {
+  color: #ffffff;
+  background-color: #4d5ae5;
   cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
 
 
