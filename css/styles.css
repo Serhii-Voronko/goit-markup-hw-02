@@ -13,7 +13,7 @@ a {
   text-decoration: none;
   color: black;
 }
-.header-menu-link {
+.header-menu-list .header-menu-item .header-menu-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -21,8 +21,8 @@ a {
   color: #2e2f42;
 }
 
-.header-menu-link:hover,
-.header-menu-link:focus {
+.header-menu-list .header-menu-item .header-menu-link:hover,
+.header-menu-list .header-menu-item .header-menu-link:focus {
   color: #404bbf;
 }
 
