@@ -11,8 +11,11 @@ ul {
 
 a {
   text-decoration: none;
+  color: black;
 }
-
+.header-menu-list .header-menu-item:first-child .header-menu-link:hover {
+  color: #404bbf;
+}
 .button {
   cursor: pointer;
   
@@ -22,15 +25,9 @@ a {
   font-family: "Raleway", sans-serif;
 }
 
-.header-menu-item {
-  color: #404bbf
-}
 
 .address {
   font-style: normal
-}
-.header-menu-link {
-  color: #2e2f42;
 }
 
 .mail, .phone {
