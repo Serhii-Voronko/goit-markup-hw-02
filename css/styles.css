@@ -2,7 +2,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF;
+  background-color: #FFF;
 }
 
 ul {
@@ -29,6 +29,10 @@ a {
 .address {
   font-style: normal
 }
+.header-menu-link {
+  color: #2e2f42;
+}
+
 .mail, .phone {
   font-weight: 400;
     font-size: 16px;
