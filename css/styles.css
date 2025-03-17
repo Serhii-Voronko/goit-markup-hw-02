@@ -204,6 +204,7 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: uppercase;
 }
 
 .made-subtitle {
@@ -220,6 +221,9 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.made-item {
+  background-color: #FFFFFF;
 }
 /*-----------------MADE-------------------*/
 
