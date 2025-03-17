@@ -24,21 +24,21 @@ a {
 /*-----------------BODY-------------------*/
 
 /*-----------------HEADER-------------------*/
-.header-logo {
+
+
+.logo, .footer-logo {
   font-family: "Raleway", sans-serif;
- 
-}
-.header-logo {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
 }
 
-.header-logo-Raleway {
-  font-family: "Raleway", sans-serif;
+.logo-accent {
+  color: #2e2f42;
 }
 
 .header-menu-link {
@@ -184,14 +184,7 @@ a {
 .footer-logo {
   font-family: "Raleway", sans-serif;
 }
-.footer-logo {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
-}
+
 
 
 
