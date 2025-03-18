@@ -49,7 +49,6 @@ a {
   background-color: #4d5ae5;
   color: #ffffff;
   border: none;
-  padding: 10px 20px;
   cursor: pointer;
 }
 
@@ -129,12 +128,8 @@ a {
   
 }
   .button{
-  display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
-    gap: 10px;
-  
+    background-color: #4d5ae5;
+    color: #ffffff;
 }
 
 
@@ -265,3 +260,4 @@ color: #f4f4fd;
 
 
 /*-----------------FOOTER-------------------*/
+.button
