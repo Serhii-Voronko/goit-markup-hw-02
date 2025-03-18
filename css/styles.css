@@ -24,7 +24,7 @@ a {
 
 
 .header-menu-link:hover,
-.header-menu-link:focus,
+.header-menu-link:focus,{
   color: #404bbf;
 }
  
