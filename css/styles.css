@@ -23,8 +23,8 @@ a {
 }
 
 
-.header-menu-list .header-menu-item .header-menu-link:hover,
-.header-menu-list .header-menu-item .header-menu-link:focus {
+.header-menu-link:hover,
+.header-menu-link:focus {
   color: #404bbf;
 }
  
@@ -163,6 +163,9 @@ a {
 .team-list {
   background-color: #FFFFFF
 }
+.team-item {
+  background-color: #FFFFFF;
+}
 
 .team-title {
   font-weight: 700;
@@ -234,6 +237,10 @@ a {
 /*-----------------FOOTER-------------------*/
 .footer {
   background-color: #2e2f42;
+}
+
+.features-item {
+  background-color: #FFFFFF;
 }
 
 .footer-title {
