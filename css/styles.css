@@ -159,9 +159,11 @@ a {
 /*-----------------FEATURES-------------------*/
 
 /*-----------------TEAM-------------------*/
-
+.team {
+  background-color: #F4F4FD
+}
 .team-list {
-  background-color: #f4f4fd;
+  background-color: #FFFFFF
 }
 
 .team-title {
@@ -174,7 +176,6 @@ a {
     text-transform: capitalize
 }
 
-
 .team-text {
   font-weight: 400;
     font-size: 16px;
@@ -183,7 +184,6 @@ a {
     text-align: center;
     color: #434455;
 }
-
 
 .team-subtitle {
   font-weight: 500;
