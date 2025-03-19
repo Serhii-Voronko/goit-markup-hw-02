@@ -91,10 +91,20 @@ font-weight: 400;
   background-color: #404bbf;
 }
 
-.header-menu-list, .mailto, .tel:hover,
-.header-menu-list, .mailto, .tel:focus {
-  background-color: #404bbf;
+.mailto,
+.tel {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.3s ease;
 }
+
+.mailto:hover,
+.mailto:focus,
+.tel:hover,
+.tel:focus {
+  color: #404bbf;
+}
+
 /*-----------------BODY-------------------*/
 
 /*-----------------HEADER-------------------*/
