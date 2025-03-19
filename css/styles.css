@@ -85,15 +85,9 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-
 }
 
-.mailto,
-.tel {
-  color: #434455;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
+
 
 .mailto:hover,
 .mailto:focus,
