@@ -64,7 +64,9 @@ a {
 .text {
   font-family: "Raleway", sans-serif;
 }
-
+.address {
+  font-style: normal
+}
 
 .mailto,
 .tel {
