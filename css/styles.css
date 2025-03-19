@@ -83,11 +83,17 @@ a {
 }
 
 .mailto, .tel {
-  font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  background-color: #404bbf;
+}
+
+.header-menu-list, .mailto, .tel:hover,
+.header-menu-list, .mailto, .tel:focus {
+  background-color: #404bbf;
 }
 /*-----------------BODY-------------------*/
 
