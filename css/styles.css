@@ -13,7 +13,10 @@ a {
   text-decoration: none;
   color: black;
 }
-.header-menu-list, .header-menu-item, .header-menu-link {
+
+.header-menu-list,
+.header-menu-item,
+.header-menu-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -35,7 +38,7 @@ a {
 .header-menu-link:focus {
   color: #404bbf;
 }
- 
+
 
 .button {
   color: #ffffff;
@@ -47,6 +50,7 @@ a {
   color: #ffffff;
   background-color: #404bbf;
 }
+
 .hero-btn {
   font-weight: 500;
   font-size: 16px;
@@ -74,14 +78,14 @@ a {
   font-style: normal
 }
 
-.mailto, 
+.mailto,
 .tel {
-font-weight: 400;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  
+
 }
 
 .mailto,
@@ -95,7 +99,7 @@ font-weight: 400;
 .mailto:focus,
 .tel:hover,
 .tel:focus {
-  color: #40bf6c;
+  color: #404bbf;
 }
 
 /*-----------------BODY-------------------*/
@@ -141,11 +145,12 @@ font-weight: 400;
   letter-spacing: 0.04em;
   text-align: center;
   background: #4d5ae5;
-  
+
 }
-  .button{
-    background-color: #4d5ae5;
-    color: #ffffff;
+
+.button {
+  background-color: #4d5ae5;
+  color: #ffffff;
 }
 
 
@@ -176,40 +181,42 @@ font-weight: 400;
 .team {
   background-color: #F4F4FD
 }
+
 .team-list {
   background-color: #FFFFFF
 }
+
 .team-item {
   background-color: #FFFFFF;
 }
 
 .team-title {
   font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
-    text-transform: capitalize
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize
 }
 
 .team-text {
   font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
 }
 
 .team-subtitle {
   font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
-    text-transform: capitalize
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize
 }
 
 
@@ -219,34 +226,35 @@ font-weight: 400;
 
 .made-title {
   font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
-    text-transform: capitalize
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize
 }
 
 .made-subtitle {
   font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    text-transform: capitalize
-    
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-transform: capitalize
 }
 
 .made-item-text {
   font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
+
 .made-item {
   background-color: #FFFFFF;
 }
+
 /*-----------------MADE-------------------*/
 
 /*-----------------FOOTER-------------------*/
@@ -260,10 +268,10 @@ font-weight: 400;
 
 .footer-title {
   font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #f4f4fd;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
 
 .footer-logo {
@@ -276,8 +284,9 @@ font-weight: 400;
   color: #4d5ae5;
   text-decoration: none;
 }
+
 .footer-accent {
-color: #f4f4fd;
+  color: #f4f4fd;
 }
 
 
